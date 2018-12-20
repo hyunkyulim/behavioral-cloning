@@ -1,2 +1,0 @@
-# behavioral-cloning
-Udacity
